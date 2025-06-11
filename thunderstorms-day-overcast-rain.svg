@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg25"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23">
+    <linearGradient
+       id="d"
+       x1="99.5"
+       x2="232.6"
+       y1="30.7"
+       y2="261.4"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f3f7fe"
+         id="stop1" />
+      <stop
+         offset=".5"
+         stop-color="#f3f7fe"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#deeafb"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       x1="52.7"
+       x2="133.4"
+       y1="9.6"
+       y2="149.3"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#9ca3af"
+         id="stop4" />
+      <stop
+         offset=".5"
+         stop-color="#9ca3af"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#6b7280"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="q"
+       x1="8.7"
+       x2="80.9"
+       y1="17.1"
+       y2="142.1"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f7b23b"
+         id="stop7" />
+      <stop
+         offset=".5"
+         stop-color="#f7b23b"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#f59e0b"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       x1="1381.3"
+       x2="1399.5"
+       y1="-1144.7"
+       y2="-1097.4"
+       gradientTransform="rotate(-9 8002.567 8233.063)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#0b65ed"
+         id="stop10" />
+      <stop
+         offset=".5"
+         stop-color="#0a5ad4"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#0950bc"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#a"
+       id="k"
+       x1="1436.7"
+       x2="1454.9"
+       y1="-1137"
+       y2="-1089.7"
+       gradientTransform="rotate(-9 8009.537 8233.037)" />
+    <linearGradient
+       xlink:href="#a"
+       id="n"
+       x1="1492.1"
+       x2="1510.3"
+       y1="-1129.3"
+       y2="-1082.1"
+       gradientTransform="rotate(-9 8016.566 8233.078)" />
+    <linearGradient
+       id="b"
+       x1="78"
+       x2="118"
+       y1="63.4"
+       y2="132.7"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fbbf24"
+         id="stop13" />
+      <stop
+         offset=".5"
+         stop-color="#fbbf24"
+         id="stop14" />
+      <stop
+         offset="1"
+         stop-color="#f59e0b"
+         id="stop15" />
+    </linearGradient>
+    <symbol
+       id="g"
+       viewBox="0 0 196 196">
+      <circle
+         cx="98"
+         cy="98"
+         r="40"
+         fill="url(#b)"
+         stroke="#f8af18"
+         stroke-miterlimit="10"
+         stroke-width="4"
+         id="circle15" />
+      <path
+         fill="none"
+         stroke="#fbbf24"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="12"
+         d="M98 31.4V6m0 184v-25.4M145.1 51l18-17.9M33 163l18-17.9M51 51 33 33m130.1 130.1-18-18M6 98h25.4M190 98h-25.4"
+         id="path15">
+        <animateTransform
+           additive="sum"
+           attributeName="transform"
+           dur="6s"
+           repeatCount="indefinite"
+           type="rotate"
+           values="0 98 98; 45 98 98" />
+      </path>
+    </symbol>
+    <symbol
+       id="e"
+       viewBox="0 0 200.3 126.1">
+      <path
+         fill="url(#c)"
+         stroke="#848b98"
+         stroke-miterlimit="10"
+         d="M.5 93.2a32.4 32.4 0 0032.4 32.4h129.8v-.1l2.3.1a34.8 34.8 0 006.5-68.9 32.4 32.4 0 00-48.5-33 48.6 48.6 0 00-88.6 37.1h-1.5A32.4 32.4 0 00.5 93.1Z"
+         id="path16" />
+    </symbol>
+    <symbol
+       id="f"
+       viewBox="0 0 350 222">
+      <path
+         fill="url(#d)"
+         stroke="#e6effc"
+         stroke-miterlimit="10"
+         stroke-width="6"
+         d="m291 107-2.5.1A83.9 83.9 0 00135.6 43 56 56 0 0051 91a56.6 56.6 0 00.8 9A60 60 0 0063 219l4-.2v.2h224a56 56 0 000-112Z"
+         id="path17" />
+    </symbol>
+    <symbol
+       id="h"
+       overflow="visible"
+       viewBox="0 0 398 222">
+      <use
+         xlink:href="#e"
+         width="200.3"
+         height="126.1"
+         transform="translate(198 27)"
+         id="use17">
+        <animateTransform
+           additive="sum"
+           attributeName="transform"
+           dur="6s"
+           repeatCount="indefinite"
+           type="translate"
+           values="-9 0; 9 0; -9 0" />
+      </use>
+      <use
+         xlink:href="#f"
+         width="350"
+         height="222"
+         id="use18">
+        <animateTransform
+           additive="sum"
+           attributeName="transform"
+           dur="6s"
+           repeatCount="indefinite"
+           type="translate"
+           values="-18 0; 18 0; -18 0" />
+      </use>
+    </symbol>
+    <symbol
+       id="r"
+       overflow="visible"
+       viewBox="0 0 410.8 258">
+      <use
+         xlink:href="#g"
+         width="196"
+         height="196"
+         id="use19" />
+      <use
+         xlink:href="#h"
+         width="398"
+         height="222"
+         transform="translate(12.84 36)"
+         id="use20" />
+    </symbol>
+    <symbol
+       id="s"
+       overflow="visible"
+       viewBox="0 0 129 57">
+      <path
+         fill="url(#a)"
+         stroke="#0a5ad4"
+         stroke-miterlimit="10"
+         d="M8.5 56.5a8 8 0 01-8-8v-40a8 8 0 0116 0v40a8 8 0 01-8 8Z"
+         opacity="0"
+         id="path20">
+        <animateTransform
+           id="i"
+           additive="sum"
+           attributeName="transform"
+           begin="0s; i.end+.33s"
+           dur=".67s"
+           type="translate"
+           values="0 -60; 0 60" />
+        <animate
+           id="j"
+           attributeName="opacity"
+           begin="0s; j.end+.33s"
+           dur=".67s"
+           keyTimes="0; .25; 1"
+           values="0; 1; 0" />
+      </path>
+      <path
+         fill="url(#k)"
+         stroke="#0a5ad4"
+         stroke-miterlimit="10"
+         d="M64.5 56.5a8 8 0 01-8-8v-40a8 8 0 0116 0v40a8 8 0 01-8 8Z"
+         opacity="0"
+         id="path21">
+        <animateTransform
+           id="l"
+           additive="sum"
+           attributeName="transform"
+           begin=".33s; l.end+.33s"
+           dur=".67s"
+           type="translate"
+           values="0 -60; 0 60" />
+        <animate
+           id="m"
+           attributeName="opacity"
+           begin=".33s; m.end+.33s"
+           dur=".67s"
+           keyTimes="0; .25; 1"
+           values="0; 1; 0" />
+      </path>
+      <path
+         fill="url(#n)"
+         stroke="#0a5ad4"
+         stroke-miterlimit="10"
+         d="M120.5 56.5a8 8 0 01-8-8v-40a8 8 0 0116 0v40a8 8 0 01-8 8Z"
+         opacity="0"
+         id="path22">
+        <animateTransform
+           id="o"
+           additive="sum"
+           attributeName="transform"
+           begin="-.33s; o.end+.33s"
+           dur=".67s"
+           type="translate"
+           values="0 -60; 0 60" />
+        <animate
+           id="p"
+           attributeName="opacity"
+           begin="-.33s; p.end+.33s"
+           dur=".67s"
+           keyTimes="0; .25; 1"
+           values="0; 1; 0" />
+      </path>
+    </symbol>
+    <symbol
+       id="t"
+       viewBox="0 0 102.7 186.8">
+      <path
+         fill="url(#q)"
+         stroke="#f6a823"
+         stroke-miterlimit="10"
+         stroke-width="4"
+         d="m34.8 2-32 96h32l-16 80 80-112h-48l32-64h-48z"
+         id="path23">
+        <animate
+           attributeName="opacity"
+           begin="0s; i.end+.67s"
+           dur="1.33s"
+           keyTimes="0; .38; .5; .63; .75; .86; .94; 1"
+           values="1; 1; 0; 1; 0; 1; 0; 1" />
+      </path>
+    </symbol>
+    <linearGradient
+       xlink:href="#q"
+       id="linearGradient25"
+       gradientUnits="userSpaceOnUse"
+       x1="8.7"
+       y1="17.1"
+       x2="80.9"
+       y2="142.1" />
+    <linearGradient
+       xlink:href="#a"
+       id="linearGradient28"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-9,8002.567,8233.063)"
+       x1="1381.3"
+       y1="-1144.7"
+       x2="1399.5"
+       y2="-1097.4" />
+    <linearGradient
+       xlink:href="#a"
+       id="linearGradient29"
+       gradientTransform="rotate(-9,8009.537,8233.037)"
+       x1="1436.7"
+       y1="-1137"
+       x2="1454.9"
+       y2="-1089.7" />
+    <linearGradient
+       xlink:href="#a"
+       id="linearGradient30"
+       gradientTransform="rotate(-9,8016.566,8233.078)"
+       x1="1492.1"
+       y1="-1129.3"
+       x2="1510.3"
+       y2="-1082.1" />
+    <linearGradient
+       xlink:href="#b"
+       id="linearGradient31"
+       gradientUnits="userSpaceOnUse"
+       x1="78"
+       y1="63.4"
+       x2="118"
+       y2="132.7" />
+    <linearGradient
+       xlink:href="#c"
+       id="linearGradient33"
+       gradientUnits="userSpaceOnUse"
+       x1="52.7"
+       y1="9.6"
+       x2="133.4"
+       y2="149.3" />
+    <linearGradient
+       xlink:href="#d"
+       id="linearGradient34"
+       gradientUnits="userSpaceOnUse"
+       x1="99.5"
+       y1="30.7"
+       x2="232.6"
+       y2="261.4" />
+  </defs>
+  <g
+     id="use23"
+     transform="translate(56,109)">
+    <g
+       id="use30">
+      <circle
+         cx="98"
+         cy="98"
+         r="40"
+         fill="url(#b)"
+         stroke="#f8af18"
+         stroke-miterlimit="10"
+         stroke-width="4"
+         id="circle31"
+         style="fill:url(#linearGradient31)" />
+      <path
+         fill="none"
+         stroke="#fbbf24"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="12"
+         d="M 98,31.4 V 6 m 0,184 V 164.6 M 145.1,51 163.1,33.1 M 33,163 51,145.1 M 51,51 33,33 m 130.1,130.1 -18,-18 M 6,98 H 31.4 M 190,98 h -25.4"
+         id="path31">
+        <animateTransform
+           additive="sum"
+           attributeName="transform"
+           dur="6s"
+           repeatCount="indefinite"
+           type="rotate"
+           values="0 98 98; 45 98 98" />
+      </path>
+    </g>
+    <g
+       id="use31"
+       transform="translate(12.84,36)">
+      <g
+         id="use32"
+         transform="translate(198,27)">
+        <path
+           fill="url(#c)"
+           stroke="#848b98"
+           stroke-miterlimit="10"
+           d="m 0.5,93.2 a 32.4,32.4 0 0 0 32.4,32.4 h 129.8 v -0.1 l 2.3,0.1 A 34.8,34.8 0 0 0 171.5,56.7 32.4,32.4 0 0 0 123,23.7 48.6,48.6 0 0 0 34.4,60.8 H 32.9 A 32.4,32.4 0 0 0 0.5,93.1 Z"
+           id="path33"
+           style="fill:url(#linearGradient33)" />
+      </g>
+      <g
+         id="use33">
+        <path
+           fill="url(#d)"
+           stroke="#e6effc"
+           stroke-miterlimit="10"
+           stroke-width="6"
+           d="m 291,107 -2.5,0.1 A 83.9,83.9 0 0 0 135.6,43 56,56 0 0 0 51,91 56.6,56.6 0 0 0 51.8,100 60,60 0 0 0 63,219 l 4,-0.2 v 0.2 h 224 a 56,56 0 0 0 0,-112 z"
+           id="path34"
+           style="fill:url(#linearGradient34)" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="use24"
+     transform="translate(191.5,343.5)">
+    <path
+       fill="url(#a)"
+       stroke="#0a5ad4"
+       stroke-miterlimit="10"
+       d="m 8.5,56.5 a 8,8 0 0 1 -8,-8 v -40 a 8,8 0 0 1 16,0 v 40 a 8,8 0 0 1 -8,8 z"
+       opacity="0"
+       id="path26"
+       style="fill:url(#linearGradient28)">
+      <animateTransform
+         id="i"
+         additive="sum"
+         attributeName="transform"
+         begin="0s; i.end+.33s"
+         dur=".67s"
+         type="translate"
+         values="0 -60; 0 60" />
+      <animate
+         id="j"
+         attributeName="opacity"
+         begin="0s; j.end+.33s"
+         dur=".67s"
+         keyTimes="0; .25; 1"
+         values="0; 1; 0" />
+    </path>
+    <path
+       fill="url(#k)"
+       stroke="#0a5ad4"
+       stroke-miterlimit="10"
+       d="m 64.5,56.5 a 8,8 0 0 1 -8,-8 v -40 a 8,8 0 0 1 16,0 v 40 a 8,8 0 0 1 -8,8 z"
+       opacity="0"
+       id="path27"
+       style="fill:url(#linearGradient29)">
+      <animateTransform
+         id="l"
+         additive="sum"
+         attributeName="transform"
+         begin=".33s; l.end+.33s"
+         dur=".67s"
+         type="translate"
+         values="0 -60; 0 60" />
+      <animate
+         id="m"
+         attributeName="opacity"
+         begin=".33s; m.end+.33s"
+         dur=".67s"
+         keyTimes="0; .25; 1"
+         values="0; 1; 0" />
+    </path>
+    <path
+       fill="url(#n)"
+       stroke="#0a5ad4"
+       stroke-miterlimit="10"
+       d="m 120.5,56.5 a 8,8 0 0 1 -8,-8 v -40 a 8,8 0 0 1 16,0 v 40 a 8,8 0 0 1 -8,8 z"
+       opacity="0"
+       id="path28"
+       style="fill:url(#linearGradient30)">
+      <animateTransform
+         id="o"
+         additive="sum"
+         attributeName="transform"
+         begin="-.33s; o.end+.33s"
+         dur=".67s"
+         type="translate"
+         values="0 -60; 0 60" />
+      <animate
+         id="p"
+         attributeName="opacity"
+         begin="-.33s; p.end+.33s"
+         dur=".67s"
+         keyTimes="0; .25; 1"
+         values="0; 1; 0" />
+    </path>
+  </g>
+  <g
+     id="use25"
+     transform="matrix(0.99946465,0,0,0.99946465,205.25749,291)">
+    <path
+       fill="url(#q)"
+       stroke="#f6a823"
+       stroke-miterlimit="10"
+       stroke-width="4"
+       d="m 34.8,2 -32,96 h 32 l -16,80 80,-112 h -48 l 32,-64 z"
+       id="path25"
+       style="fill:url(#linearGradient25)">
+      <animate
+         attributeName="opacity"
+         begin="0s; i.end+.67s"
+         dur="1.33s"
+         keyTimes="0; .38; .5; .63; .75; .86; .94; 1"
+         values="1; 1; 0; 1; 0; 1; 0; 1" />
+    </path>
+  </g>
+</svg>
